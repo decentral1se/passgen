@@ -1,4 +1,4 @@
-module github.com/schultz-is/passgen
+module github.com/decentral1se/passgen
 
 go 1.14
 
