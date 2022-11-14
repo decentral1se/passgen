@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/schultz-is/passgen"
+	"github.com/decentral1se/passgen"
 	"github.com/stretchr/testify/require"
 )
 

@@ -9,7 +9,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/schultz-is/passgen"
+	"github.com/decentral1se/passgen"
 	"github.com/spf13/cobra"
 )
 
